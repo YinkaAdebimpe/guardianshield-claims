@@ -1,0 +1,17 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+
+# Ignore everything raw
+data/raw/
+
+# Ignore processed by default
+data/processed/*.csv
+
+# But commit these summaries
+!data/processed/features_v1.csv
+!data/processed/predictions_v1.csv
+!data/processed/claims_v1.csv
