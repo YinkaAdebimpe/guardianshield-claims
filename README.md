@@ -243,4 +243,3 @@ I build end-to-end data science solutions for customer-facing businesses — fro
 *Part of the OkYeahInsight Analytics portfolio — a three-engagement consulting series for GuardianShield Insurance.*
 
 **Note on shared environment:** All three GuardianShield engagements share the Python virtual environment at `C:\venvs\guardianshield-clv`. This keeps dependencies consistent across engagements and avoids duplicating ~500 MB of packages per project.
-Steps
